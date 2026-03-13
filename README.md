@@ -50,7 +50,7 @@ When a level is completed, a button named "Get my config" will appear and you wi
 ☆ Submission details ☆
 --------------------------------
 
-According to the evaluation sheet, there has to be 10 exported configuration files (one per level), and they must be located at the repository root, + this README.md.
+According to the evaluation sheet, there has to be 10 exported configuration files (one per level), and they must be located at the repository root, config files + this README.md.
 
 --------------------------------
 ☆ Resources ☆
@@ -91,5 +91,5 @@ Focuses on:
 
 AI tools were occasionally used to:
 
-vVerify the correctness of network configurations.
+Verify the correctness of network configurations.
 Clarify specific networking concepts during the learning process.
